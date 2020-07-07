@@ -6,6 +6,9 @@ springboot整合Mybatis简单demo
 
 创建数据：
 
+<body>
+123
+</body>
 -- ----------------------------
 -- Table structure for `tb_user`
 -- ----------------------------
